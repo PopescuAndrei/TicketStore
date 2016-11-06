@@ -1,0 +1,2 @@
+Table Name : ticketsStore
+Authentication: User: "root", Password: ""
